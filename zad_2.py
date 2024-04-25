@@ -1,5 +1,6 @@
 result1 = 5
 result2 = 7
+result_git = 9
 
 def fun1():
     result1 = 3
